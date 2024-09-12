@@ -29,7 +29,7 @@ import trainers.coop
 import trainers.cocoop
 import trainers.zsclip
 import trainers.prograd
-import trainers.tcp
+import trainers.bip
 def print_args(args, cfg):
     print("***************")
     print("** Arguments **")
